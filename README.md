@@ -21,4 +21,4 @@ npm install
 npm run dev
 ```
 
-## Откройте в браузере: http://localhost:5173 
+Откройте в браузере: http://localhost:5173 

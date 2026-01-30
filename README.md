@@ -14,6 +14,12 @@
 - Bootstrap
 - Локальный JSON
 
+## Клонирование репозитория
+```bash
+git clone https://github.com/IslamK1/VueJS-TZ.git
+cd VueJS-TZ
+```
+
 ## Установка и запуск
 
 ```bash
